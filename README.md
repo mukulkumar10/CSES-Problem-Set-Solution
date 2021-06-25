@@ -1,2 +1,2 @@
-# CSES-Problem-Set-Solution_
+# CSES-Problem-Set-Solution
 All solutions are in C++ language! 
